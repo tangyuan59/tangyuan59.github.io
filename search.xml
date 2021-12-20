@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2021/12/11/newblog/"/>
-      <url>/2021/12/11/newblog/</url>
+      <title>搭建blog</title>
+      <link href="/2021/12/12/da-jian-blog/"/>
+      <url>/2021/12/12/da-jian-blog/</url>
       
-        <content type="html"><![CDATA[<h1 id="新blogtest"><a href="#新blogtest" class="headerlink" title="新blogtest"></a>新blogtest</h1><h3 id="test。。。。"><a href="#test。。。。" class="headerlink" title="test。。。。"></a>test。。。。</h3>]]></content>
+        <content type="html"><![CDATA[<p>#从零开始搭建博客</p><h2 id="1-安装hexo依赖环境"><a href="#1-安装hexo依赖环境" class="headerlink" title="1.安装hexo依赖环境"></a>1.安装hexo依赖环境</h2><h3 id="1-1安装node-js"><a href="#1-1安装node-js" class="headerlink" title="1.1安装node.js"></a>1.1安装node.js</h3><h3 id="1-2安装npm"><a href="#1-2安装npm" class="headerlink" title="1.2安装npm"></a>1.2安装npm</h3><h2 id="2-安装hexo"><a href="#2-安装hexo" class="headerlink" title="2.安装hexo"></a>2.安装hexo</h2>]]></content>
       
       
+      <categories>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
       
     </entry>
     
